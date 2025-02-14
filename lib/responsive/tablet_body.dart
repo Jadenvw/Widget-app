@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-class DesktopBody extends StatelessWidget {
-  const DesktopBody({super.key});
+class TabletBody extends StatelessWidget {
+  const TabletBody({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepOrange,
+      backgroundColor: Colors.deepPurple,
     );
   }
 }
